@@ -2,8 +2,7 @@
 mmap_dd is a small dd-like utility for copying data to and from
 mmapable files. This is usefull for the resource files that map to
 PCIE BAR spaces in the sysfs hierarchy which cannot be read or written
-to otherwise. It's also handy to test and benchmark mmap style drivers
-(ie mtramon).
+to otherwise. It's also handy to test and benchmark mmap style drivers.
 
 To build, run:
 
